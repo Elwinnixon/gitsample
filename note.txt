@@ -1,0 +1,45 @@
+git and github
+---------------
+
+github : it is a cloud based platform to share codes between the developers
+
+features
+--------
+- store data
+- code share
+- minor project can be hosted
+- version control system
+
+git
+----
+- it is a tool in our system to do operations in github
+
+operations
+----------
+1) push - to add code - uploading file - localrepo - remote repo
+2) clone - get code - downloading entire code from remote repo
+3) pull - get code - downloading the uodated code from - remote repo - localrepo
+
+storage space
+------------
+git storage - local repository
+github storage - remote repository
+
+push operation
+--------------
+             git add          git commit           git push
+ local storage---> staging area---------->local repo-------->remote repo
+
+
+ clone operation
+
+ command - git clone url
+
+ pull operation 
+
+ command - git pull  url
+
+ git command
+ -----------
+ 1) 
+
